@@ -1,0 +1,6 @@
+# このファイルを terraform.tfvars にコピーして実際の値を設定してください
+# terraform.tfvars は .gitignore に追加して機密情報を管理してください
+
+access_key = "YOUR_NCP_ACCESS_KEY"
+secret_key = "YOUR_NCP_SECRET_KEY"
+region     = "KR"
